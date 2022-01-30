@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+This is an analysis to find the best weather and vacation spots for this time of the year in the world. This analysis takes into account local hotel options as well as preferred minimum and maximum temperature.
